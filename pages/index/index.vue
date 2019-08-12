@@ -1,11 +1,11 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
+		<image class="logo" :src="image"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 			<input type="text" :value="title" @input="change">
 		</view>
-		<navigator url="../hello/hello">
+		<navigator :url="url">
 			<view>
 				I am {{student.age+1}} year old <br>
 				I have skills such as: {{skill[0]}},{{skill[1]}},{{skill[2]}},{{skill[3]}}
@@ -23,7 +23,9 @@
 				student: {
 					age: 18
 				},
-				skill: ['Java', 'HTML', 'css', 'springcloud', 'vue']
+				skill: ['Java', 'HTML', 'css', 'springcloud', 'vue'],
+				url: "../hello/hello",
+				image: "/static/logo.png"
 			}
 		},
 		onLoad() {

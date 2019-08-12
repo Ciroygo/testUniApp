@@ -1,8 +1,8 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["common/vendor"],[
 /* 0 */
-/*!********************************************************!*\
-  !*** /Users/roy/Sites/test_uni_app/testUniApp/main.js ***!
-  \********************************************************/
+/*!*******************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7470,9 +7470,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!***********************************************************!*\
-  !*** /Users/roy/Sites/test_uni_app/testUniApp/pages.json ***!
-  \***********************************************************/
+/*!**********************************************!*\
+  !*** /Users/roy/Sites/testUniApp/pages.json ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7592,9 +7592,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 11 */
-/*!*****************************************************************************************!*\
-  !*** /Users/roy/Sites/test_uni_app/testUniApp/main.js?{"page":"pages%2Fhello%2Fhello"} ***!
-  \*****************************************************************************************/
+/*!****************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Findex%2Findex"} ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7602,8 +7602,8 @@ function normalizeComponent (
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
-var _hello = _interopRequireDefault(__webpack_require__(/*! ./pages/hello/hello.vue */ 12));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
-createPage(_hello.default);
+var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ 12));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_index.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
@@ -7612,10 +7612,12 @@ createPage(_hello.default);
 /* 14 */,
 /* 15 */,
 /* 16 */,
-/* 17 */
-/*!*****************************************************************************************!*\
-  !*** /Users/roy/Sites/test_uni_app/testUniApp/main.js?{"page":"pages%2Findex%2Findex"} ***!
-  \*****************************************************************************************/
+/* 17 */,
+/* 18 */,
+/* 19 */
+/*!****************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fhello%2Fhello"} ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7623,8 +7625,31 @@ createPage(_hello.default);
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
-var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ 18));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
-createPage(_index.default);
+var _hello = _interopRequireDefault(__webpack_require__(/*! ./pages/hello/hello.vue */ 20));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_hello.default);
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
+
+/***/ }),
+/* 20 */,
+/* 21 */,
+/* 22 */,
+/* 23 */,
+/* 24 */,
+/* 25 */,
+/* 26 */,
+/* 27 */
+/*!******************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fevents%2Fevents"} ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
+
+var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+var _events = _interopRequireDefault(__webpack_require__(/*! ./pages/events/events.vue */ 28));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_events.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ })
