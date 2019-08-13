@@ -1,0 +1,50 @@
+.container {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	
+	-webkit-box-pack: center;
+	
+	-webkit-justify-content: center;
+	
+	    -ms-flex-pack: center;
+	
+	        justify-content: center;
+	height: 800rpx;
+	-webkit-box-align: baseline;
+	-webkit-align-items: baseline;
+	    -ms-flex-align: baseline;
+	        align-items: baseline;
+}
+.txt {
+	font-size: 20px;
+	width: 150rpx;
+}
+.green {
+	background-color: #008000;
+}
+.red {
+	background-color: #ff0000;
+}
+.blue {
+	background-color: #007AFF;
+}
+.orange {
+	background-color: orange;
+}
+.pink {
+	background-color: pink;
+}
+.yellow {
+	background-color: yellow;
+}
+

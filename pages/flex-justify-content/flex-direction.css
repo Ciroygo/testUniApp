@@ -1,0 +1,32 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	
+	justify-content: space-between;
+	height: 800rpx;
+}
+.txt {
+	font-size: 20px;
+	width: 200rpx;
+	height: 200rpx;
+}
+.green {
+	background-color: #008000;
+}
+.red {
+	background-color: #ff0000;
+}
+.blue {
+	background-color: #007AFF;
+}
+
+.orange {
+	background-color: orange;
+}
+.pink {
+	background-color: pink;
+}
+.yellow {
+	background-color: yellow;
+}

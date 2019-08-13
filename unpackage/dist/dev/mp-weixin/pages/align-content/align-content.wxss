@@ -1,0 +1,75 @@
+.container {
+	height: 900rpx;
+	background-color: #8F8F94;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	/* justify-content: center; */
+	/* align-items: center; */
+	-webkit-align-content: center;
+	    -ms-flex-line-pack: center;
+	        align-content: center;
+}
+.txt {
+	font-size: 20px;
+	width: 200rpx;
+	height: 200rpx;
+}
+.green {
+	background-color: #008000;
+	-webkit-box-ordinal-group: 2;
+	-webkit-order: 1;
+	    -ms-flex-order: 1;
+	        order: 1;
+	/* flex-grow: 1; */
+}
+.red {
+	background-color: #ff0000;
+	-webkit-box-ordinal-group: 3;
+	-webkit-order: 2;
+	    -ms-flex-order: 2;
+	        order: 2;
+	/* flex-grow: 2; */
+	-webkit-flex-basis: 100rpx;
+	    -ms-flex-preferred-size: 100rpx;
+	        flex-basis: 100rpx;
+}
+.blue {
+	background-color: #007AFF;
+	-webkit-box-ordinal-group: 4;
+	-webkit-order: 3;
+	    -ms-flex-order: 3;
+	        order: 3;
+	/* flex-grow: 1; */
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+.orange {
+	background-color: orange;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+.pink {
+	background-color: pink;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+.yellow {
+	background-color: yellow;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+
