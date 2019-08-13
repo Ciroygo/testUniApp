@@ -1,8 +1,16 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/ifcompile/ifcompile",
     "pages/vforkey/vforkey",
     "pages/vfor/vfor",
+=======
+    "pages/align-content/align-content",
+    "pages/flex-aglin-items/flex-aglin-items",
+    "pages/flex-justify-content/flex-justify-content",
+    "pages/flex-wrap/flex-wrap",
+    "pages/flex-direction/flex-direction",
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
     "pages/events/events",
     "pages/index/index",
     "pages/hello/hello",

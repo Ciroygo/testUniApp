@@ -1608,9 +1608,15 @@ function normalizeComponent (
 /***/ }),
 
 /***/ 11:
+<<<<<<< HEAD
 /*!********************************************************************************!*\
   !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fvforkey%2Fvforkey"} ***!
   \********************************************************************************/
+=======
+/*!**************************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fflex-aglin-items%2Fflex-aglin-items"} ***!
+  \**************************************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1618,16 +1624,28 @@ function normalizeComponent (
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
 var _vforkey = _interopRequireDefault(__webpack_require__(/*! ./pages/vforkey/vforkey.vue */ 12));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_vforkey.default);
+=======
+var _flexAglinItems = _interopRequireDefault(__webpack_require__(/*! ./pages/flex-aglin-items/flex-aglin-items.vue */ 12));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_flexAglinItems.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ 17:
 /*!**************************************************************************!*\
   !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fvfor%2Fvfor"} ***!
   \**************************************************************************/
+=======
+/***/ 19:
+/*!**********************************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fflex-justify-content%2Fflex-justify-content"} ***!
+  \**********************************************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1635,8 +1653,13 @@ createPage(_vforkey.default);
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
 var _vfor = _interopRequireDefault(__webpack_require__(/*! ./pages/vfor/vfor.vue */ 18));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_vfor.default);
+=======
+var _flexJustifyContent = _interopRequireDefault(__webpack_require__(/*! ./pages/flex-justify-content/flex-justify-content.vue */ 20));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_flexJustifyContent.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
@@ -7590,10 +7613,17 @@ internalMixin(Vue);
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ 23:
 /*!******************************************************************************!*\
   !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fevents%2Fevents"} ***!
   \******************************************************************************/
+=======
+/***/ 27:
+/*!************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fflex-wrap%2Fflex-wrap"} ***!
+  \************************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7601,6 +7631,7 @@ internalMixin(Vue);
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
 var _events = _interopRequireDefault(__webpack_require__(/*! ./pages/events/events.vue */ 24));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_events.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
@@ -7620,6 +7651,10 @@ createPage(_events.default);
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
 var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ 30));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_index.default);
+=======
+var _flexWrap = _interopRequireDefault(__webpack_require__(/*! ./pages/flex-wrap/flex-wrap.vue */ 28));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_flexWrap.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
@@ -7655,10 +7690,17 @@ module.exports = g;
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ 37:
 /*!****************************************************************************!*\
   !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fhello%2Fhello"} ***!
   \****************************************************************************/
+=======
+/***/ 35:
+/*!**********************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fflex-direction%2Fflex-direction"} ***!
+  \**********************************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7666,8 +7708,13 @@ module.exports = g;
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
 var _hello = _interopRequireDefault(__webpack_require__(/*! ./pages/hello/hello.vue */ 38));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_hello.default);
+=======
+var _flexDirection = _interopRequireDefault(__webpack_require__(/*! ./pages/flex-direction/flex-direction.vue */ 36));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_flexDirection.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
@@ -7676,6 +7723,8 @@ createPage(_hello.default);
 /*!**********************************************!*\
   !*** /Users/roy/Sites/testUniApp/pages.json ***!
   \**********************************************/
+<<<<<<< HEAD
+=======
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7685,9 +7734,9 @@ createPage(_hello.default);
 /***/ }),
 
 /***/ 43:
-/*!************************************************************************!*\
-  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fvif%2Fvif"} ***!
-  \************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fevents%2Fevents"} ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7695,16 +7744,43 @@ createPage(_hello.default);
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
-var _vif = _interopRequireDefault(__webpack_require__(/*! ./pages/vif/vif.vue */ 44));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
-createPage(_vif.default);
+var _events = _interopRequireDefault(__webpack_require__(/*! ./pages/events/events.vue */ 44));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_events.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ }),
 
-/***/ 51:
-/*!************************************************************************************!*\
-  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fifcompile%2Fifcompile"} ***!
-  \************************************************************************************/
+/***/ 49:
+/*!****************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Findex%2Findex"} ***!
+  \****************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+<<<<<<< HEAD
+
+/***/ }),
+
+/***/ 43:
+/*!************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fvif%2Fvif"} ***!
+  \************************************************************************/
+=======
+var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ 50));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_index.default);
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
+
+/***/ }),
+
+/***/ 57:
+/*!****************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fhello%2Fhello"} ***!
+  \****************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7712,8 +7788,42 @@ createPage(_vif.default);
 /* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
+var _vif = _interopRequireDefault(__webpack_require__(/*! ./pages/vif/vif.vue */ 44));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_vif.default);
+=======
+var _hello = _interopRequireDefault(__webpack_require__(/*! ./pages/hello/hello.vue */ 58));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_hello.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
+
+/***/ }),
+
+<<<<<<< HEAD
+/***/ 51:
+/*!************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Fifcompile%2Fifcompile"} ***!
+  \************************************************************************************/
+=======
+/***/ 69:
+/*!********************************************************************************************!*\
+  !*** /Users/roy/Sites/testUniApp/main.js?{"page":"pages%2Falign-content%2Falign-content"} ***!
+  \********************************************************************************************/
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);
+
+var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));
+<<<<<<< HEAD
 var _ifcompile = _interopRequireDefault(__webpack_require__(/*! ./pages/ifcompile/ifcompile.vue */ 52));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_ifcompile.default);
+=======
+var _alignContent = _interopRequireDefault(__webpack_require__(/*! ./pages/align-content/align-content.vue */ 70));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_alignContent.default);
+>>>>>>> be86d79383c0d7f6967b5ae7c576de6540e02e04
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["createPage"]))
 
 /***/ })

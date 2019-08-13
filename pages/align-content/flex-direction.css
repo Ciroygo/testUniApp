@@ -1,0 +1,45 @@
+.container {
+	height: 900rpx;
+	background-color: #8F8F94;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	/* justify-content: center; */
+	/* align-items: center; */
+	align-content: center;
+}
+.txt {
+	font-size: 20px;
+	width: 200rpx;
+	height: 200rpx;
+}
+.green {
+	background-color: #008000;
+	order: 1;
+	/* flex-grow: 1; */
+}
+.red {
+	background-color: #ff0000;
+	order: 2;
+	/* flex-grow: 2; */
+	flex-basis: 100rpx;
+}
+.blue {
+	background-color: #007AFF;
+	order: 3;
+	/* flex-grow: 1; */
+	flex-shrink: 0;
+}
+
+.orange {
+	background-color: orange;
+	flex-shrink: 0;
+}
+.pink {
+	background-color: pink;
+	flex-shrink: 0;
+}
+.yellow {
+	background-color: yellow;
+	flex-shrink: 0;
+}
