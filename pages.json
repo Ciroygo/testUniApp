@@ -1,5 +1,18 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+		    "path" : "pages/ifcompile/ifcompile",
+		    "style" : {}
+		},
+		{
+		    "path" : "pages/vforkey/vforkey",
+		    "style" : {}
+		},
+		{
+		    "path" : "pages/vfor/vfor",
+		    "style" : {}
+		},
 		{
             "path" : "pages/events/events",
             "style" : {}
@@ -15,6 +28,13 @@
 		    "style" : {}
 		}
   
+        ,{
+            "path" : "pages/vif/vif",
+            "style" : {}
+        }
+        
+        
+
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

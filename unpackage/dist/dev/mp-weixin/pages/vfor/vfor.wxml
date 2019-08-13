@@ -1,0 +1,1 @@
+<view><block wx:for="{{studentArray}}" wx:for-item="item" wx:for-index="index"><view><view>{{index+"姓名:"+item.name}}</view><view>{{"年龄:"+item.age}}</view><view>擅长技能:<block wx:for="{{item.skill}}" wx:for-item="sk" wx:for-index="skIndex"><block>{{sk+","}}</block></block></view></view></block></view>

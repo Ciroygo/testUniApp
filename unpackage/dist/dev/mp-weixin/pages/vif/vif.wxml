@@ -1,0 +1,1 @@
+<view><block wx:if="{{isShow}}"><view>This isShow</view></block><block wx:else><view>看不见我</view></block><view hidden="{{!(isShow)}}">vshow</view><block wx:if="{{sex==1}}"><view>男</view></block><block wx:else><block wx:if="{{sex==0}}"><view>女</view></block><block wx:else><view>未知</view></block></block></view>
